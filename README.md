@@ -8,7 +8,7 @@ Este repositório é referente ao desafio 'Fundamentos do React Native' do Bootc
 # Proposta 🔥
 Este projeto é um estudo dos conceitos de Contexto do React-Native, tendo como 'carro chefe' a Context API e seu hook (useContext).
 A ideia é simular uma loja fictícia, trazendo dados de uma Fake API e integrar as informações disponíveis em tela, tais como quantidade de produtos e preço final.
-O diferencial é o Tema Dark, que também foi construído utilizando a Context API do React.
+
 
 <p align="center">
   <img src="src/assets/GoMarketPlace.gif" />
