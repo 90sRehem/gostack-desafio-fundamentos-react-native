@@ -23,7 +23,7 @@ React Icons ⚛️❤️ <br />
 Typescript 🦕
 
 # Como obter esse repositório? 🤔
-Para obter esse projeto, siga os passos:
+Para contribuir com esse projeto, siga os passos:
 1. Clone esse repositório utilizando <code>git clone</code>.
 2. Rode o comando <code> yarn </code> na raíz da pasta do projeto clonado para baixar as dependências.
 3. Rode o comando <code> yarn android</code> (se estiver emulando em um android) ou <code>yarn ios</code> (se estiver emulando em um ios) na raíz da pasta do projeto clonado para instalar o app no emulador.
