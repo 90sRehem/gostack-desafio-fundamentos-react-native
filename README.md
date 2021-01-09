@@ -3,21 +3,21 @@
 </p>
 
 <p align="center">
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/90sRehem/bootcamp-gostack-challenge-10">
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/90sRehem/bootcamp-gostack-challenge-10">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/90sRehem/bootcamp-gostack-challenge-10">
-  <a href="https://github.com/90sRehem/bootcamp-gostack-challenge-10/commits/master">
-    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/90sRehem/bootcamp-gostack-challenge-10">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/90sRehem/GoMarketPlace">
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/90sRehem/GoMarketPlace">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/90sRehem/GoMarketPlace">
+  <a href="https://github.com/90sRehem/GoMarketPlace/commits/master">
+    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/90sRehem/GoMarketPlace">
   </a>
-   <a href="https://github.com/90sRehem/bootcamp-gostack-challenge-10/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/90sRehem/bootcamp-gostack-challenge-10">
+   <a href="https://github.com/90sRehem/GoMarketPlace/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/90sRehem/GoMarketPlace">
   </a>
-  <img alt="License" src="https://img.shields.io/github/license/90sRehem/bootcamp-gostack-challenge-10">
+  <img alt="License" src="https://img.shields.io/github/license/90sRehem/GoMarketPlace">
 </p>
 
 <p align="center">
 
-  <a href="https://github.com/90sRehem" target="_blank">
+  <a href="https://www.linkedin.com/in/jonathan-rehem-7101171a5/" target="_blank">
     <img alt="Made by Jonathan Rehem" src="https://img.shields.io/badge/made%20by-Jonathan_Rehem-informational">
   </a>
   <a href="https://github.com/90sRehem" target="_blank" >
