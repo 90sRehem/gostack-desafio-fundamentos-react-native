@@ -88,3 +88,4 @@ $ git push origin minha-branch
 Delete sua branch, se quiser, quando o merge da sua pull request for feito. <br />
 
 Feito com 💜 por <a href="https://www.linkedin.com/in/jonathan-rehem-7101171a5/" target="blank">Jonathan Rehem</a>.
+###### Developed on GoStack Bootcamp from [RocketSeat](https://rocketseat.com.br) :rocket:.
